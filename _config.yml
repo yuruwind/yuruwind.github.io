@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "yuruwind's blog"
+description: "wind ~ wind ~ wind"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://yuruwind.github.io/images/00.jpg
+favicon: https://yuruwind.github.io/images/logo.ico
 
 navigation:
   - name: 首页
