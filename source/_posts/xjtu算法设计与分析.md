@@ -1,3 +1,16 @@
+---
+title: xjtuse算法设计与分析
+date: 2025-06-24 23:25:42
+category:
+  - Notes
+tags: [算法]
+math: true
+---
+
+xjtuse算法设计与分析
+
+
+
 # 第一章 算法概述
 
 ## 1.1 主定理和递归树
