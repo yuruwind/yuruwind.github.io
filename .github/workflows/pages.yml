@@ -29,6 +29,12 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
+
+      # --- START: 在这里添加安装 Pandoc 的步骤 ---
+      - name: Install Pandoc 
+        run: sudo apt-get update && sudo apt-get install -y pandoc # Ubuntu 环境下安装 Pandoc 的命令
+      # --- END: 添加安装 Pandoc 的步骤 ---
+        
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
