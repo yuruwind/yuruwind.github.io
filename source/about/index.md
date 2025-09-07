@@ -4,4 +4,4 @@ date: 2025-06-23 22:50:03
 layout: about
 ---
 
-!! Found by you
+A tiny planet in the vast internet, blessed by your visit.

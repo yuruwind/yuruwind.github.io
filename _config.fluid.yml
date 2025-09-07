@@ -452,7 +452,7 @@ footer:
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-    <br> <span>Vanitas Vanitatum</span>
+    <br> <span>Tonight''s moon, gentle as ever</span>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -986,13 +986,13 @@ about:
   banner_mask_alpha: 0.3
   avatar: /img/002.jpg
   name: "yuruwind"
-  intro: "to do..."
+  intro: "Condemned to be free."
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
+    - { class: "iconfont icon-github-fill", link: "https://github.com/yuruwind", tip: "GitHub" }
     - { class: "iconfont icon-rss", link: "google.com", tip: "暂未开放" }
-    - { class: "iconfont icon-steam", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-steam", qrcode: "/img/002.jpg" }
 
 
 #---------------------------
