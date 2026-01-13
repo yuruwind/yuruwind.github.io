@@ -7,8 +7,6 @@ tags: [算法]
 math: true
 ---
 
-xjtuse算法设计与分析
-
 
 
 # 第一章 算法概述
