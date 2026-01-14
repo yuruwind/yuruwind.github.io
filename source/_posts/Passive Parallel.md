@@ -1,9 +1,9 @@
 ---
-title:Programming Massively Parallel Processors Fourth Edition 学习摘录
+title: Programming Massively Parallel Processors Fourth Edition 学习摘录
 date: 2026-01-13 22:46:12
 category:
   - Notes
-tags: [并行计算,]
+tags: [并行计算]
 math: true
 ---
 
