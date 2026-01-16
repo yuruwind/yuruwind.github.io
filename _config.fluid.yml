@@ -984,6 +984,7 @@ about:
   banner_img: /img/bg/003.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
+  text: "About"
   avatar: /img/002.jpg
   name: "yuruwind"
   intro: "Condemned to be free."
@@ -1061,7 +1062,17 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>在下方留言申请加入我的友链，请按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://hexo.fluid-dev.com</li><li>图片：https://hexo.fluid-dev.com/img/favicon.png</li></ul>'
+    content: |
+      <hr>
+      <h4 id="apply-links">友链申请</h4>
+      <p>本站信息如下（可以直接复制，欢迎互挂友链）：</p>
+      <div style="background-color: rgba(0,0,0,0.04); padding: 1.25rem; border-radius: 10px; border-left: 4px solid #CC99FF; line-height: 1.8; font-size: 0.95rem;">
+        <strong>Name:</strong> yuruwind <br>
+        <strong>Info:</strong> Condemned to be free. <br>
+        <strong>Link:</strong> https://yuruwind.github.io/ <br>
+        <strong>Avatar:</strong> https://yuruwind.github.io/img/002.jpg
+      </div>
+      <p style="margin-top: 15px;">申请时请在下方留言，并按照上述格式提供您的信息。</p>
 
   # 评论插件
   # Comment plugin
