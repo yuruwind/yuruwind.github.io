@@ -1040,6 +1040,13 @@ links:
       link: "https://yuruwind.github.io/",
       avatar: "/img/bg/004.jpg"
     }
+
+    - {
+      title: "Derrick Liu",
+      intro: "日拱一卒",
+      link: "https://ziyuliu258.cn/",
+      avatar: "/img/bg/avatar.jpg"
+    }
    # - {
    #   title: "Fluid Docs",
    #   intro: "主题使用指南",
