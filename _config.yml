@@ -102,3 +102,17 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# RSS 订阅插件配置
+# See: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
+  template:
